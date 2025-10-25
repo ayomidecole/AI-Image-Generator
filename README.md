@@ -1,0 +1,1 @@
+# Creating an AI Image Generator frontend app
