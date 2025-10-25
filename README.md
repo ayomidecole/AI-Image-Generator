@@ -15,3 +15,12 @@ For this project I used the following models:
 <option value="runwayml/stable-diffusion-v1-5">Stable Diffusion v1.5</option>
 <option value="prompthero/openjourney-v4">OpenJourney v4</option>
 ```
+
+We also want to give the user the option to select the number of images they want to generate.
+
+```html
+<option value="1">1 Image</option>
+<option value="2">2 Images</option>
+<option value="3">3 Images</option>
+<option value="4">4 Images</option>
+```
